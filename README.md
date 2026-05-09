@@ -19,15 +19,15 @@
  
 ### 4. Activation Functions for Deep Learning
 - 📂 [Colab Notebook](https://colab.research.google.com/drive/1CJKTIQKGj1TlSkqqOfD3rQTg9bZBv_TS?authuser=1)
-- 🎥 [Video Walkthrough](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+- 🎥 [Video Walkthrough](https://youtu.be/jMJ77BPxdfA)
 ---
  
 ### 5. Convolutional Neural Networks (CNN)
 - 📂 [Colab Notebook](https://colab.research.google.com/drive/1OQ1X-5O7IY5Bp9dwlUsM3zPDXWXk2aVd?authuser=1)
-- 🎥 [Video Walkthrough](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+- 🎥 [Video Walkthrough](https://youtu.be/HJW0aWNLxWc)
 ---
  
 ### 6. Modern CNN Architectures & Transfer Learning
 - 📂 [Colab Notebook](https://colab.research.google.com/drive/1X97RL_m8G41i88kkGWdvsx--f2PKDzjq?authuser=1)
-- 🎥 [Video Walkthrough](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+- 🎥 [Video Walkthrough](https://youtu.be/HJW0aWNLxWc)
 ---
