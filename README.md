@@ -14,7 +14,7 @@
  
 ### 3. Optimizers for Deep Learning
 - 📂 [Colab Notebook](https://colab.research.google.com/drive/1OTy6QTKBEQS8bQP_5ZYXisfkJBdXrwNn?authuser=1)
-- 🎥 [Video Walkthrough](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+- 🎥 [Video Walkthrough](https://youtu.be/GjyxKv9KchU)
 ---
  
 ### 4. Activation Functions for Deep Learning
