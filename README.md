@@ -4,7 +4,7 @@
  
 ### 1. Metrics for Classification – Fundamentals
 - 📂 [Colab Notebook](https://colab.research.google.com/drive/1UzmBGzU1BuG5jjKsaJr4cszlvNA2A6Uq#scrollTo=KZKvjTAOLnB0)
-- 🎥 [Video Walkthrough](https://www.youtube.com/watch?v=YOUR_LINK_HERE)
+- 🎥 [Video Walkthrough](https://youtu.be/9hm2pmABjiI)
 ---
  
 ### 2. Hyperparameter Tuning for Deep Learning
